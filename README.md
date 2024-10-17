@@ -1,2 +1,8 @@
-# Online-Food-Ordering
-This is a partially completed Online Food Ordering Application built using React.js. The app is designed to help users seamlessly browse food items, add them to the cart, and place orders online. It integrates modern React features such as hooks and context to manage state efficiently.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
